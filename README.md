@@ -1,4 +1,4 @@
-# cheatsheet
+
 # reciever
 LMS311N-opamp
 R-US_ -> 0207/10   (120k,100k,22k,1k)
