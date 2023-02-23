@@ -1,0 +1,21 @@
+R1# configure terminal
+
+R1(config)#hostname CNLab
+
+CNLab(config)#exit
+
+CNLab#
+
+CNLab#conf t
+
+CNLab(config)#interface fastethernet 0/0
+
+CNLab(config-if)#ip address 192.168.8.1 255.255.255.0
+
+CNLab(config-if)#no shutdown
+
+CNLab(config-if)#exit
+
+CNLab(config)#exit
+
+CNLab#
