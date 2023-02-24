@@ -19,3 +19,16 @@ CNLab(config-if)#exit
 CNLab(config)#exit
 
 CNLab#
+
+
+CNLab#conf t
+
+CNLab(config)#enable password 1234
+
+CNLab(config)#exit
+
+CNLab#disable
+
+CNLab>enable
+
+Password:
